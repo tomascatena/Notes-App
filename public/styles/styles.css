@@ -111,6 +111,7 @@ a {
   font-weight: 300;
   padding: 0.8rem;
   transition: background 0.3s ease;
+  text-decoration: none;
 }
 
 .button:hover {
